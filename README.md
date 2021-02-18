@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is **==Rodrigo Bernardes==** ✌
+My name is **Rodrigo Bernardes** ✌
 
  I’m currently working at a software house as a **system implantator**
  Learning about **web development** 👨‍💻 and **english language** 🏈
