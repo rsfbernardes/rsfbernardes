@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 <!--
-**rsfbernardes/rsfbernardes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**rsfbernardes/rsfbernardes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
 
 #### I’m currently working at a software house as a system implantator
-#### I’m currently learning about web development  
+#### Learning about web development and english language
 
 ##### How to reach me: 👇
 
